@@ -1,0 +1,115 @@
+
+h1.headline{
+
+    font-size:100px;
+    color: #CB7218;
+    padding: 20px;
+
+}
+
+p.horaires{
+    color: #AEAFAF;
+    font-size: 30px;
+    padding: 50px;
+    text-align: center;
+    
+    
+    
+    
+
+}
+
+p.mot{
+    color:#AEAFAF;
+    font-size: 40px;
+    text-align: center;
+    
+    
+}
+
+
+body{
+
+    background: url("https://cdn.pixabay.com/photo/2015/03/26/09/54/restaurant-690569_960_720.jpg");
+    background-size: 100%; 
+    opacity: 1;
+
+}
+
+nav.menu-nav ul li.btn{
+    
+    display: inline-block;
+    opacity:0.8;
+    
+
+}
+
+nav.menu-nav{
+    list-style-type: none;
+    
+    
+}
+
+
+nav.menu-nav div#content div.logo{
+    
+        list-style-type: none;
+        
+   
+}
+
+div#content div.menu{
+
+}
+
+div#corp div{
+    
+}
+
+.horaires{
+
+    
+
+}
+ 
+li.btn a{
+
+    color: #CB7218;
+    text-decoration: none;
+    background-color: black;
+    padding:15px;
+    font-size:20px;
+    
+}
+
+
+
+nav.menu-nav ul li.btn:hover a{
+    color:#CB7218;
+    opacity:1;
+    background-color: #00000046;
+    transition: 0.5s all;
+    
+}
+
+
+
+
+div.header{
+    display: inline-block;
+}
+
+.video{
+
+    margin-left:35%;
+    
+}
+
+div#content div{
+
+    display: inline-block;
+    
+    
+}
+
+

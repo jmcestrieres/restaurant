@@ -1,0 +1,165 @@
+h1.headline{
+
+    font-size:100px;
+    color: #CB7218;
+    padding: 20px;
+    background-color:black;
+    opacity: 0.9;
+    text-align:center;
+
+}
+
+.boiteimage{
+    display: flex;
+    background-color: #CB7218;
+
+
+}
+
+.boitetext{
+
+    display: flex;
+    
+}
+
+.fix-both{
+    align-items: flex-end;
+    background-color:black;
+    opacity: 0.4;
+
+  }
+
+  /** 
+ .boitetext{
+    display: flex;
+    background-color:blue;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    text-align:center;
+  }
+  
+  .boite{
+    display: flex;
+    align-items: center;
+    margin: 5px;
+    background-color:red
+  }
+  
+  .fix-both{
+    align-items: flex-end;
+    background-color:green
+
+  }
+
+/**/
+
+nav.menu-nav ul li.btn{
+    
+    display: inline-block;
+    opacity:0.8;red
+}
+
+nav.menu-nav{
+    list-style-type: none;
+    
+    
+}
+nav.menu-nav div#content div.logo{
+    
+    list-style-type: none;
+    
+
+}
+
+div.menu{
+    text-align: center;
+}
+
+li.btn a{
+
+    color: #CB7218;
+    text-decoration: none;
+    background-color: black;
+    padding:15px;
+    font-size:20px;
+    
+}
+nav.menu-nav ul li.btn:hover a{
+    color:#CB7218;
+    opacity:1;
+    background-color: #00000046;
+    transition: 0.5s all;
+    
+}
+
+div#content{
+    background-color: black;
+}
+
+div#content div{
+    display: inline-block;
+    width:48%;
+    
+}
+
+div#content div.boiteimage{
+    margin: 20px;
+    background-color: silver;
+    
+
+}
+
+div#content div.boitetext{
+    vertical-align: center;
+    background-color: silver;
+    opacity: 0.8;
+    font-size: 20px;
+    display: flex;
+}  
+  /*****/ 
+
+
+
+
+
+    
+
+
+
+body{
+    background: url("https://cdn.pixabay.com/photo/2015/03/26/09/54/restaurant-690569_960_720.jpg");
+    background-size: 100%;
+}
+
+
+
+
+.boitetext{
+    display: flex;
+    background-color:lavenderblush;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    text-align:center;
+  }
+  
+  .boite{
+    display: flex;
+    align-items: center;
+    margin: 5px;
+  }
+  
+  .fix-both{
+    align-items: flex-end;
+  }
+
+
+footer{
+    
+}
+
+header{
+    
+}
+
